@@ -29,7 +29,7 @@ $(document).ready(function () {
 
 
   $('#first_countdown').ResponsiveCountdown({
-				target_date: "2020/1/1 16:00:00",
+				target_date: "2016/11/1 12:10:00",
 				time_zone: -7,
 				target_future: true,
 				set_id: 0,
