@@ -93,10 +93,7 @@ a:hover{
 	color: #2a93d8;
 }
 ul, ol{
-	margin: 0; padding: 0;
-}
-ul li{
-	list-style-type: none;
+	margin: 17px; padding: 0;
 }
 ol {
 	counter-reset:li;
@@ -159,10 +156,10 @@ ol ol li:last-child {margin-bottom:0;}
 	padding-left: 10px;
 }
 .blue{
-	background-color: #2a93d8;
-}
+	background-color: #f35000;}
+
 .blue:hover{
-	background-color: #f35000;
+	background-color: #B2D234;
 	color: #fff;
 }
 input{
@@ -316,6 +313,7 @@ header.wrapper{
 .book1, .book2{
 	float: right;
 	margin-top: 30px;
+	margin-right:55px;
 	max-width: 934px;
 }
 .book1 img, .book2 img{
@@ -513,7 +511,6 @@ header.wrapper{
 		width: 80%;
 		float: none;
 		position: relative;
-		text-align: center;
 		margin-top: 50px;
 		margin-left: 10%;
 		margin-right: 0;
